@@ -14,4 +14,4 @@ This package handles:
 - Raycasting
 - Collider casting
 
-  I made this package for collision system of my game Leap of Fury : https://github.com/PaulPannetier/Leap-Of-Fury
+  I made this package for the collision system of my game Leap of Fury : https://github.com/PaulPannetier/Leap-Of-Fury
