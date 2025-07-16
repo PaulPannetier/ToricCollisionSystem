@@ -13,3 +13,5 @@ This package handles:
 - Collision detection
 - Raycasting
 - Collider casting
+
+  I made this package for collision system of my game Leap of Fury : https://github.com/PaulPannetier/Leap-Of-Fury
